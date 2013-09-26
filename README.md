@@ -1,5 +1,5 @@
-#iOS7 Notice
-Known Issue: Submitting to the iOS App Store with the current version of the SDK results in an app store rejection. This is due to the use of Bluetooth 2.1 stack to support the first Jot Touch. A patch is in testing and will be updated here on GitHub by Wednesday.
+#v2.0 Beta 1 Announcement
+A beta release of the SDK is now available on the [https://github.com/Adonit/JotTouchSDK/tree/v2Beta1](v2Beta1) branch here on GitHub. Please review the ChangeLog for specific details around upgrading. This will correct any previous iOS7 issues and drops support for the BT 2.1 based Jot Touch.
 
 
 #JotTouchSDK V1.0.4
