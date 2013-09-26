@@ -1,5 +1,5 @@
 #v2.0 Beta 1 Announcement
-A beta release of the SDK is now available on the [https://github.com/Adonit/JotTouchSDK/tree/v2Beta1](v2Beta1) branch here on GitHub. Please review the ChangeLog for specific details around upgrading. This will correct any previous iOS7 issues and drops support for the BT 2.1 based Jot Touch.
+A beta release of the SDK is now available on the [v2Beta1](https://github.com/Adonit/JotTouchSDK/tree/v2Beta1) branch here on GitHub. Please review the ChangeLog for specific details around upgrading. This will correct any previous iOS7 issues and drops support for the BT 2.1 based Jot Touch.
 
 
 #JotTouchSDK V1.0.4
